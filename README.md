@@ -1,7 +1,22 @@
 # Polska_Szkola_Cybernetyki
 To repo zawiera plik z fiszkami do nauki polskiej szkoły cybernetyki rozwijanej przez Mariana Mazura, później przez Józefa Kosseckiego. Materiał obejmuje Aksjomatyczną Teorię poznania, Ogólną Jakościową Teorię Informacji, podstawy metacybernetyki. Będę opisywał bieżący zakres materiału w kolejnych commitach tego repo.
 
-Trochę faktów o Marianie Mazurze:
+Program do korzystania z kart wykorzystuje algorytm spaced repetition, pozwala na utrzymanie w pamięci dowolnej informacji przy minimalnym czasie spędzonym na powtórkach.
+W zależności od poprawności odpowiedzi program oblicza dzień następnego powtórzenia.
+
+Do pobrania tutaj:
+
+https://apps.ankiweb.net/
+
+Po ściągnięciu i zainstalowaniu można zaimportować plik, który znajduje się w tym repo.
+
+Same karty to w większości pary pojęcie-definicja (obustronne), jeśli trzeba przywołać inną informacje, dodane jest odpowiednie pytanie.
+Na przykład:
+Są notaki o układzie samodzielnym, z przodu jest para organów, a z tyłu (do zgadnięcia) opis sprzężenia między tymi organami, czy istnieje i jaki jest jego cel.
+
+
+O samej nauce:
+o Marianie Mazurze:
 
 na Wikipedii:
 
